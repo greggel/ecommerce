@@ -1,0 +1,32 @@
+.thumbnail img
+.thumbnail img {
+	max-height: 150px;
+}
+
+.smallnav {
+    display: none;
+}
+
+.navbar-nav {
+    margin-left:40%;
+}
+
+@media (max-width: 700px) {
+.container {
+   
+}
+
+.navbar {
+    display: none;
+}
+
+.leftnav {
+    display: none;
+
+}
+.smallnav {
+    display: none;
+}
+
+}
+
